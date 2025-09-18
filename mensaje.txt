@@ -1,1 +1,4 @@
 Hola, este es un archivo TXT expuesto por Kong.
+Consideraciones:
+
+1. Ejemplo usando RAW de GitHub.
